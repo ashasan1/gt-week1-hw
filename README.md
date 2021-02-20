@@ -10,3 +10,4 @@ In this assignment, I edited the html document. I simplfied and organized the li
 
 4. I added 'alt' tags on all of the images for accessibility purposes. 
 
+5. I checked the site's URL to ensure that it resembled the demo page given.
