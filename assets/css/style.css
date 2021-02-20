@@ -54,8 +54,8 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-image: url( alt="Three men and one woman sitting around a meeting table looking at papers. The man on the far left is using a laptop. The man in the center is standing up." "../images/digital-marketing-meeting.jpg");
+    background-size: cover; 
     background-position: center;
 }
 
